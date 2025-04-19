@@ -98,6 +98,6 @@ Skills:  PYTHON/ / JS / HTML / CSS
 </a>  
 </a>
 <a href="https://www.youtube.com/@sufian.iwish71" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%232E87FB.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px; margin-right: 2px;" />
+<img src=https://img.shields.io/badge/youtube-%232E87FB.svg?&style=for-the-badge&logo=youtube&logoColor=red alt=youtube style="margin-bottom: 5px; margin-right: 2px;" />
 </a> 
 </div>
